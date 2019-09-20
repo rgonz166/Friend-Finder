@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/rgonz166/Friend-Finder/issues"
   },
-  "homepage": "https://github.com/rgonz166/Friend-Finder#readme"
+  "homepage": "https://github.com/rgonz166/Friend-Finder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
